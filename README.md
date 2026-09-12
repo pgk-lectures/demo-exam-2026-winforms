@@ -461,6 +461,6 @@ catch (MySqlException ex)
 - `Cannot add child row` — передан несуществующий внешний ключ.
 - `Cannot delete parent row` — запись используется в другой таблице.
 
-Инструкция по отправке: [Как загрузить проект на GitVerse](https://github.com/pgk-lectures/gitverse-first-push).
+Инструкция по отправке: [Как загрузить проект в Gitea](https://github.com/pgk-lectures/gitea-first-push).
 
 Готового решения программы в этой публичной репозитории нет. Названия форм, запросы и бизнес-логику нужно построить по собственному проекту базы и условию ДЭ.
